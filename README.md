@@ -1,4 +1,4 @@
-salt °²×°Èí¼þ
+salt
 =======
 mysqld
 
