@@ -1,15 +1,5 @@
 salt
 =======
-mysqld
+文件管理
 
-zabbix
-
-varnish
-
-memcached
-
-nginx
-
-php
-
-apache
+软件管理
